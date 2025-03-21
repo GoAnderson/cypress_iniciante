@@ -1,0 +1,13 @@
+**Extensões:**
+One Dark Pro > Darker
+Material Icon Theme
+
+**Pacontes:**
+npm e yarn
+
+**Install:**
+npm install cypress
+
+**iniciando o projeto cypress:**
+yarn init
+yarn add cypress -D
