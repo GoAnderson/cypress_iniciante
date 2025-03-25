@@ -1,13 +1,27 @@
-**Extensões:**
-One Dark Pro > Darker
-Material Icon Theme
+// Ele pode ser alterado 
+var nome = 'Anderson' // string - Texto
+nome = 'Pedro'
+console.log(nome)
 
-**Pacontes:**
-npm e yarn
+// Ele pode ser alterado 
+let idade = 20 
+idade = 30
 
-**Install:**
-npm install cypress
+// Não pode ser alterada
+const cidade = 'Florianópoles'
 
-**iniciando o projeto cypress:**
-yarn init
-yarn add cypress -D
+var maior_idade = false //boolean - verdadeiro ou falso 
+
+const paises = ['Brasil','Holanda']  // lista de dados
+
+// objeto
+let devices = {
+    nome: 'Iphone 14',
+    preco: 8.000,
+    cores: {
+        cor1: 'azul',
+        cor2: 'verde'
+    }
+}
+
+// funcao
